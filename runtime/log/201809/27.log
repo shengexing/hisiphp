@@ -1,0 +1,20 @@
+---------------------------------------------------------------
+[ 2018-09-27T16:42:40+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php
+[ info ] localhost/hisiphp/hisiphp/jkpm.php [è¿è¡Œæ—¶é—´ï¼š1.071699s][ååç‡ï¼š0.93req/s] [å†…å­˜æ¶ˆè€—ï¼š2,324.62kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [2002]SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£
+[D:\1.DevlopTool\1.Xampp7\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:293]
+---------------------------------------------------------------
+[ 2018-09-27T17:02:10+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php
+[ info ] localhost/hisiphp/hisiphp/jkpm.php [è¿è¡Œæ—¶é—´ï¼š1.116867s][ååç‡ï¼š0.90req/s] [å†…å­˜æ¶ˆè€—ï¼š2,324.16kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [2002]SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£
+[D:\1.DevlopTool\1.Xampp7\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:293]
+---------------------------------------------------------------
+[ 2018-09-27T17:07:34+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/user/role.html
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/user/role.html [è¿è¡Œæ—¶é—´ï¼š1.073621s][ååç‡ï¼š0.93req/s] [å†…å­˜æ¶ˆè€—ï¼š2,392.75kb] [æ–‡ä»¶åŠ è½½ï¼š57]
+[ error ] [2002]SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£
+[D:\1.DevlopTool\1.Xampp7\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:293]
+---------------------------------------------------------------
+[ 2018-09-27T17:07:52+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php
+[ info ] localhost/hisiphp/hisiphp/jkpm.php [è¿è¡Œæ—¶é—´ï¼š1.122158s][ååç‡ï¼š0.89req/s] [å†…å­˜æ¶ˆè€—ï¼š2,324.16kb] [æ–‡ä»¶åŠ è½½ï¼š54]
+[ error ] [2002]SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£
+[D:\1.DevlopTool\1.Xampp7\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:293]

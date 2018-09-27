@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+[ 2018-09-19T21:57:06+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/important.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/important.html [运行时间：0.124007s][吞吐率：8.06req/s] [内存消耗：2,856.05kb] [文件加载：66]
+[ error ] [4]语法错误: unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'[D:\phpStudy\WWW\hisiphp\hisiphp\app\admin\controller\Project.php:2049]
+---------------------------------------------------------------
+[ 2018-09-19T21:59:15+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/important.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/important.html [运行时间：0.186011s][吞吐率：5.38req/s] [内存消耗：3,826.91kb] [文件加载：90]
+[ error ] [8]未定义变量: examUnit[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\4608778d0037d37c2fe5fa94b0cb8e2f.php:699]
+---------------------------------------------------------------
+[ 2018-09-19T22:00:34+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/important.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/important.html [运行时间：0.218012s][吞吐率：4.59req/s] [内存消耗：3,661.41kb] [文件加载：88]
+[ error ] [8]未定义变量: type[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\4608778d0037d37c2fe5fa94b0cb8e2f.php:283]
+---------------------------------------------------------------
+[ 2018-09-19T22:31:01+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/tenexam.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/tenexam.html [运行时间：0.165010s][吞吐率：6.06req/s] [内存消耗：3,609.38kb] [文件加载：85]
+[ error ] [0]模板文件不存在:D:\phpStudy\WWW\hisiphp\hisiphp/app/admin\view\project\tenexam.php[D:\phpStudy\WWW\hisiphp\hisiphp\thinkphp\library\think\view\driver\Think.php:80]

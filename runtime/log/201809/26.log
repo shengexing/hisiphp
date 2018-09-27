@@ -1,0 +1,15 @@
+---------------------------------------------------------------
+[ 2018-09-26T14:14:31+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php
+[ info ] localhost/hisiphp/hisiphp/jkpm.php [Х©░Х║▄Ф≈╤И≈╢О╪ 1.121767s][Е░·Е░░Г▌┤О╪ 0.89req/s] [Е├┘Е╜≤Ф╤┬Х─≈О╪ 2,324.55kb] [Ф√┤Д╩╤Е┼═Х╫╫О╪ 54]
+[ error ] [2002]SQLSTATE[HY000] [2002] сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+[D:\1.DevlopTool\1.Xampp7\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:293]
+---------------------------------------------------------------
+[ 2018-09-26T14:17:02+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php
+[ info ] localhost/hisiphp/hisiphp/jkpm.php [Х©░Х║▄Ф≈╤И≈╢О╪ 1.073507s][Е░·Е░░Г▌┤О╪ 0.93req/s] [Е├┘Е╜≤Ф╤┬Х─≈О╪ 2,324.81kb] [Ф√┤Д╩╤Е┼═Х╫╫О╪ 54]
+[ error ] [2002]SQLSTATE[HY000] [2002] сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+[D:\1.DevlopTool\1.Xampp7\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:293]
+---------------------------------------------------------------
+[ 2018-09-26T14:17:21+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php
+[ info ] localhost/hisiphp/hisiphp/jkpm.php [Х©░Х║▄Ф≈╤И≈╢О╪ 1.064377s][Е░·Е░░Г▌┤О╪ 0.94req/s] [Е├┘Е╜≤Ф╤┬Х─≈О╪ 2,324.81kb] [Ф√┤Д╩╤Е┼═Х╫╫О╪ 54]
+[ error ] [2002]SQLSTATE[HY000] [2002] сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+[D:\1.DevlopTool\1.Xampp7\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:293]

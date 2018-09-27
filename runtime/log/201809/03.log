@@ -1,0 +1,72 @@
+---------------------------------------------------------------
+[ 2018-09-03T21:19:04+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/baseitem/proid/107.html?type=examitem
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/baseitem/proid/107.html?type=examitem [运行时间：0.284017s][吞吐率：3.52req/s] [内存消耗：3,808.47kb] [文件加载：87]
+[ error ] [8]Use of undefined constant info - assumed 'info'[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\ea88fbd6b7152e30b33c176bc03a71c7.php:1120]
+---------------------------------------------------------------
+[ 2018-09-03T21:19:17+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/baseitem/proid/107.html?type=examitem
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/baseitem/proid/107.html?type=examitem [运行时间：0.263015s][吞吐率：3.80req/s] [内存消耗：3,808.30kb] [文件加载：87]
+[ error ] [8]Array to string conversion[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\ea88fbd6b7152e30b33c176bc03a71c7.php:1120]
+---------------------------------------------------------------
+[ 2018-09-03T21:20:07+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/baseitem/proid/107.html?type=examitem
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/baseitem/proid/107.html?type=examitem [运行时间：0.278015s][吞吐率：3.60req/s] [内存消耗：3,798.86kb] [文件加载：87]
+[ error ] [8]未定义变量: unitData[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\ea88fbd6b7152e30b33c176bc03a71c7.php:1120]
+---------------------------------------------------------------
+[ 2018-09-03T21:40:49+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/examine/type/1.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/examine/type/1.html [运行时间：0.177010s][吞吐率：5.65req/s] [内存消耗：3,583.48kb] [文件加载：88]
+[ error ] [8]未定义数组索引: nick[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\425be0a4ec4901c1645fa0fb5e75f35f.php:869]
+---------------------------------------------------------------
+[ 2018-09-03T21:46:14+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/statis.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/statis.html [运行时间：0.194011s][吞吐率：5.15req/s] [内存消耗：3,487.49kb] [文件加载：84]
+[ error ] [8]未定义数组索引: nick[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\84cd9c74fa29f7a852132282d90ea9b8.php:1077]
+---------------------------------------------------------------
+[ 2018-09-03T21:48:17+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html [运行时间：0.187011s][吞吐率：5.35req/s] [内存消耗：3,412.22kb] [文件加载：83]
+[ error ] [8]未定义数组索引: punit[D:\phpStudy\WWW\hisiphp\hisiphp\app\admin\controller\Project.php:1726]
+---------------------------------------------------------------
+[ 2018-09-03T21:48:54+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html [运行时间：0.190011s][吞吐率：5.26req/s] [内存消耗：3,412.91kb] [文件加载：83]
+[ error ] [8]未定义数组索引: punit[D:\phpStudy\WWW\hisiphp\hisiphp\app\admin\controller\Project.php:1726]
+---------------------------------------------------------------
+[ 2018-09-03T21:49:08+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html [运行时间：0.195011s][吞吐率：5.13req/s] [内存消耗：3,412.91kb] [文件加载：83]
+[ error ] [8]未定义数组索引: punit[D:\phpStudy\WWW\hisiphp\hisiphp\app\admin\controller\Project.php:1726]
+---------------------------------------------------------------
+[ 2018-09-03T21:49:38+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html [运行时间：0.191011s][吞吐率：5.24req/s] [内存消耗：3,644.22kb] [文件加载：87]
+[ error ] [8]未定义数组索引: dunit[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\e83c9b8b3d56b20197b01ffee8b530fd.php:574]
+---------------------------------------------------------------
+[ 2018-09-03T21:49:51+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html [运行时间：0.193011s][吞吐率：5.18req/s] [内存消耗：3,477.84kb] [文件加载：85]
+[ error ] [8]未定义数组索引: dunit[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\e83c9b8b3d56b20197b01ffee8b530fd.php:574]
+---------------------------------------------------------------
+[ 2018-09-03T21:51:37+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html [运行时间：0.209012s][吞吐率：4.78req/s] [内存消耗：3,639.41kb] [文件加载：87]
+[ error ] [8]未定义数组索引: punit[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\e83c9b8b3d56b20197b01ffee8b530fd.php:585]
+---------------------------------------------------------------
+[ 2018-09-03T21:52:25+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html [运行时间：0.206012s][吞吐率：4.85req/s] [内存消耗：3,643.63kb] [文件加载：87]
+[ error ] [8]未定义数组索引: id[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\e83c9b8b3d56b20197b01ffee8b530fd.php:573]
+---------------------------------------------------------------
+[ 2018-09-03T21:52:34+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html [运行时间：0.195011s][吞吐率：5.13req/s] [内存消耗：3,642.85kb] [文件加载：87]
+[ error ] [8]未定义数组索引: id[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\e83c9b8b3d56b20197b01ffee8b530fd.php:573]
+---------------------------------------------------------------
+[ 2018-09-03T21:52:40+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/fenguan.html [运行时间：0.184011s][吞吐率：5.43req/s] [内存消耗：3,477.82kb] [文件加载：85]
+[ error ] [8]未定义数组索引: id[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\e83c9b8b3d56b20197b01ffee8b530fd.php:573]
+---------------------------------------------------------------
+[ 2018-09-03T21:54:11+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/statis/type/4/punit/2.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/statis/type/4/punit/2.html [运行时间：0.218012s][吞吐率：4.59req/s] [内存消耗：3,432.52kb] [文件加载：83]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'puser.id' in 'where clause'[D:\phpStudy\WWW\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:388]
+---------------------------------------------------------------
+[ 2018-09-03T21:54:20+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/statis/type/4/punit/6.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/statis/type/4/punit/6.html [运行时间：0.169010s][吞吐率：5.92req/s] [内存消耗：3,432.57kb] [文件加载：83]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'puser.id' in 'where clause'[D:\phpStudy\WWW\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:388]
+---------------------------------------------------------------
+[ 2018-09-03T22:27:20+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/companyinfo.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/companyinfo.html [运行时间：0.183011s][吞吐率：5.46req/s] [内存消耗：3,427.78kb] [文件加载：83]
+[ error ] [1]Call to a member function render() on a non-object[D:\phpStudy\WWW\hisiphp\hisiphp\app\admin\controller\Project.php:221]
+---------------------------------------------------------------
+[ 2018-09-03T22:28:20+08:00 ] 127.0.0.1 GET /hisiphp/hisiphp/jkpm.php/admin/project/companyinfo.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/companyinfo.html [运行时间：0.196011s][吞吐率：5.10req/s] [内存消耗：3,722.13kb] [文件加载：90]
+[ error ] [8]未定义变量: type[D:\phpStudy\WWW\hisiphp\hisiphp\runtime\temp\325f35478a65f65a90c77f37e151cf04.php:540]

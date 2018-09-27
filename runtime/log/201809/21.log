@@ -1,0 +1,72 @@
+---------------------------------------------------------------
+[ 2018-09-21T09:14:23+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/timelimit
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/timelimit [运行时间：0.197986s][吞吐率：5.05req/s] [内存消耗：3,092.31kb] [文件加载：65]
+[ error ] [0]语法解析错误: syntax error, unexpected '->' (T_OBJECT_OPERATOR)[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\app\admin\controller\Project.php:2142]
+---------------------------------------------------------------
+[ 2018-09-21T09:14:49+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/timelimit
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/timelimit [运行时间：0.209048s][吞吐率：4.78req/s] [内存消耗：3,092.31kb] [文件加载：65]
+[ error ] [0]语法解析错误: syntax error, unexpected '->' (T_OBJECT_OPERATOR)[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\app\admin\controller\Project.php:2142]
+---------------------------------------------------------------
+[ 2018-09-21T09:14:59+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/timelimit
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/timelimit [运行时间：0.145605s][吞吐率：6.87req/s] [内存消耗：3,092.31kb] [文件加载：65]
+[ error ] [0]语法解析错误: syntax error, unexpected '->' (T_OBJECT_OPERATOR)[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\app\admin\controller\Project.php:2142]
+---------------------------------------------------------------
+[ 2018-09-21T09:51:16+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/timelimit
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/timelimit [运行时间：0.297942s][吞吐率：3.36req/s] [内存消耗：4,349.97kb] [文件加载：83]
+[ error ] [2]Use of undefined constant aaaa - assumed 'aaaa' (this will throw an Error in a future version of PHP)[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\app\admin\controller\Project.php:2141]
+---------------------------------------------------------------
+[ 2018-09-21T11:09:07+08:00 ] 0.0.0.0 POST /hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html [运行时间：0.165862s][吞吐率：6.03req/s] [内存消耗：4,127.35kb] [文件加载：78]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'code' doesn't have a default value[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-09-21T14:03:41+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html [运行时间：0.245952s][吞吐率：4.07req/s] [内存消耗：4,721.89kb] [文件加载：84]
+[ error ] [0]语法解析错误: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\runtime\temp\5df0947d33a0e5988573b0bd18015078.php:330]
+---------------------------------------------------------------
+[ 2018-09-21T14:07:37+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html [运行时间：0.236284s][吞吐率：4.23req/s] [内存消耗：4,844.99kb] [文件加载：87]
+[ error ] [8]Array to string conversion[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\runtime\temp\5df0947d33a0e5988573b0bd18015078.php:1715]
+---------------------------------------------------------------
+[ 2018-09-21T14:07:49+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html [运行时间：0.241328s][吞吐率：4.14req/s] [内存消耗：4,844.99kb] [文件加载：87]
+[ error ] [8]Array to string conversion[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\runtime\temp\5df0947d33a0e5988573b0bd18015078.php:1715]
+---------------------------------------------------------------
+[ 2018-09-21T17:55:28+08:00 ] 0.0.0.0 POST /hisiphp/hisiphp/jkpm.php/admin/project/addmreport/proid/109.html
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/addmreport/proid/109.html [运行时间：0.208670s][吞吐率：4.79req/s] [内存消耗：4,133.21kb] [文件加载：78]
+[ error ] [10501]SQLSTATE[01000]: Warning: 1265 Data truncated for column 'mtime' at row 5[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-09-21T21:38:45+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/problemlist
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/problemlist [运行时间：0.243950s][吞吐率：4.10req/s] [内存消耗：4,417.70kb] [文件加载：82]
+[ error ] [0]致命错误: Call to undefined function app\admin\controller\FIND_IN_SET()[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\app\admin\controller\Project.php:2184]
+---------------------------------------------------------------
+[ 2018-09-21T21:39:33+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/problemlist
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/problemlist [运行时间：0.223310s][吞吐率：4.48req/s] [内存消耗：4,420.48kb] [文件加载：83]
+[ error ] [2]Use of undefined constant FIND_IN_SET - assumed 'FIND_IN_SET' (this will throw an Error in a future version of PHP)[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\app\admin\controller\Project.php:2184]
+---------------------------------------------------------------
+[ 2018-09-21T21:42:52+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/problemlist
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/problemlist [运行时间：0.208011s][吞吐率：4.81req/s] [内存消耗：4,417.99kb] [文件加载：82]
+[ error ] [0]致命错误: Call to undefined function app\admin\controller\CURDATE()[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\app\admin\controller\Project.php:2186]
+---------------------------------------------------------------
+[ 2018-09-21T21:50:59+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/problemlist
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/problemlist [运行时间：0.212267s][吞吐率：4.71req/s] [内存消耗：4,411.45kb] [文件加载：82]
+[ error ] [0]致命错误: Call to undefined function app\admin\controller\CURDATE()[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\app\admin\controller\Project.php:2186]
+---------------------------------------------------------------
+[ 2018-09-21T22:04:42+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/problemlist
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/problemlist [运行时间：0.224636s][吞吐率：4.45req/s] [内存消耗：4,419.92kb] [文件加载：83]
+[ error ] [2]Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP)[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\app\admin\controller\Project.php:2184]
+---------------------------------------------------------------
+[ 2018-09-21T22:05:54+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/problemlist
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/problemlist [运行时间：0.221671s][吞吐率：4.51req/s] [内存消耗：4,419.41kb] [文件加载：83]
+[ error ] [2]Invalid argument supplied for foreach()[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Query.php:686]
+---------------------------------------------------------------
+[ 2018-09-21T22:08:45+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/problemlist
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/problemlist [运行时间：0.211970s][吞吐率：4.72req/s] [内存消耗：4,419.39kb] [文件加载：83]
+[ error ] [2]Invalid argument supplied for foreach()[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Query.php:686]
+---------------------------------------------------------------
+[ 2018-09-21T22:09:53+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/problemlist
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/problemlist [运行时间：0.224882s][吞吐率：4.45req/s] [内存消耗：4,359.35kb] [文件加载：84]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.recid' in 'on clause'[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:388]
+---------------------------------------------------------------
+[ 2018-09-21T22:11:53+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/project/problemlist
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/problemlist [运行时间：0.218251s][吞吐率：4.58req/s] [内存消耗：4,359.35kb] [文件加载：84]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.recid' in 'on clause'[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:388]

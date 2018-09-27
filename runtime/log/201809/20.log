@@ -1,0 +1,28 @@
+---------------------------------------------------------------
+[ 2018-09-20T10:35:20+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/admin/publics/logout.html
+[ info ] localhost/hisiphp/hisiphp/admin/publics/logout.html [运行时间：0.055707s][吞吐率：17.95req/s] [内存消耗：2,912.99kb] [文件加载：57]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:293]
+---------------------------------------------------------------
+[ 2018-09-20T10:35:28+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/admin/publics/index.html
+[ info ] localhost/hisiphp/hisiphp/admin/publics/index.html [运行时间：0.050665s][吞吐率：19.74req/s] [内存消耗：2,912.98kb] [文件加载：57]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:293]
+---------------------------------------------------------------
+[ 2018-09-20T10:35:45+08:00 ] 0.0.0.0 GET /hisiphp/hisiphp/jkpm.php/admin/publics/logout.html
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/publics/logout.html [运行时间：0.065330s][吞吐率：15.31req/s] [内存消耗：2,913.01kb] [文件加载：57]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:293]
+---------------------------------------------------------------
+[ 2018-09-20T15:14:06+08:00 ] 0.0.0.0 POST /hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html [运行时间：0.197671s][吞吐率：5.06req/s] [内存消耗：4,123.31kb] [文件加载：78]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'code' doesn't have a default value[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-09-20T15:16:40+08:00 ] 0.0.0.0 POST /hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html [运行时间：0.207535s][吞吐率：4.82req/s] [内存消耗：4,123.31kb] [文件加载：78]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'code' doesn't have a default value[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:456]
+---------------------------------------------------------------
+[ 2018-09-20T15:22:12+08:00 ] 0.0.0.0 POST /hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html
+[ info ] localhost/hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html [运行时间：0.168314s][吞吐率：5.94req/s] [内存消耗：4,131.65kb] [文件加载：76]
+[ error ] [0]致命错误: Call to undefined function app\admin\controller\alert()[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\app\admin\controller\Project.php:131]
+---------------------------------------------------------------
+[ 2018-09-20T15:25:44+08:00 ] 127.0.0.1 POST /hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html
+[ info ] 127.0.0.1/hisiphp/hisiphp/jkpm.php/admin/project/generateditem.html [运行时间：0.181023s][吞吐率：5.52req/s] [内存消耗：4,121.23kb] [文件加载：78]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'code' doesn't have a default value[D:\1.Develop_Tool\7.xampp7.29\htdocs\hisiphp\hisiphp\thinkphp\library\think\db\Connection.php:456]
